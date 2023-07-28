@@ -1,16 +1,13 @@
-### Hi there 👋
+Bem vindo ao meu perfil! 
 
-<!--
-**soaresjoao08/soaresjoao08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Soares!
 
-Here are some ideas to get you started:
+-Estudo no: Alura, P5js, e scratch!
+-Utilizo o Github para apresemtação dos meus trabalhos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Espero que gostem!🤜🤛
+
+
+![aesthetic-money (1)](https://github.com/soaresjoao08/soaresjoao08/assets/136644799/bd84aae4-f94f-4819-84d9-1bb344eee71d)
+
+Focused on money! 🥂
